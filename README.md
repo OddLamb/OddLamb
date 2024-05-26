@@ -1,15 +1,24 @@
 ## Greetings👋👋
 **My name is Asaf Amithiel, and im a Front-End Junior Developer**
 <br>Im currently ending my middle school👨‍🎓📚</br>
-## knowledges📖📖:
+## knowledges📖:
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,php,github" />
 </a>
 </p>
 
-## Status🌐🌐
+## Status🌐:
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoonBoon03&layout=donut-vertical"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LoonBoon03"/>
+</div>
+
+## Contact👥:
+<div>
+  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asafamithiel/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/asaf.wav/)
+
 </div>
