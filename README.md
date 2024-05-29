@@ -10,7 +10,7 @@
 
 ## Status🌐:
 <div>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoonBoon03&layout=donut-vertical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoonBoon03"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LoonBoon03"/>
 </div>
 
