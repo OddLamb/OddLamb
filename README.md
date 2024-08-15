@@ -1,5 +1,5 @@
 ## Greetings👋👋
-**My name is Asaf Amithiel, and im a Front-End Junior Developer**
+**My name is Asaf Amithiel, and im a Developer**
 <br>Im currently ending my middle school👨‍🎓📚</br>
 ## Knowledges📖:
 <p align="center">
@@ -10,8 +10,8 @@
 
 ## Status🌐:
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoonBoon03"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LoonBoon03"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OddLamb"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OddLamb"/>
 </div>
 
 ## Contact👥:
