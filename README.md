@@ -4,7 +4,7 @@
 ## Knowledges📖:
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </a>
 </p>
 
